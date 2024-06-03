@@ -7,3 +7,4 @@ Learning Solidity programming language to develop smart contracts that run on Et
 List of contracts:
 
 1. Counter: stores count variable with a function to increment the count
+1. DataTypes: variable scopes and common data types
