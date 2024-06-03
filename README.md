@@ -12,3 +12,4 @@ List of contracts:
 1. Mappings: stores data with key-value pairs
 1. ControlFlow: control flow with conditionals and loops
 1. HotelRoom: demonstrates simple payable logic
+1. MySecret: demonstrates inheritance, factories, and interaction between contracts
