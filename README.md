@@ -9,3 +9,4 @@ List of contracts:
 1. Counter: stores count variable with a function to increment the count
 1. DataTypes: variable scopes and common data types
 1. Arrays: 1D and 2D Arrays and array manipulation methods
+1. Mappings: stores data with key-value pairs
